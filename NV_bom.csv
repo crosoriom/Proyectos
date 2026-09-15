@@ -1,0 +1,17 @@
+Item,Categoria,Numero_de_Parte,Fabricante,Descripcion_Tecnica,Cantidad,Precio_Unitario_USD,Precio_Total_USD,Proveedor_Sugerido
+1,Sensor Visible/NIR,IMX585LQR-C / IMX662,Sony Semiconductor,Sensor CMOS 1/1.8" Ultra-Low Light STARVIS 2 4K/2K MIPI-CSI2,1,58.00,58.00,Mouser / Arrow
+2,Sensor Térmico LWIR,Microbolometer Module 640,InfiRay / Guide Sensmart,Modulo Microbolometro VOx 640x512 12um NETD<35mK Salida Digital DVP/MIPI,1,380.00,380.00,Directo Fabricante / OEM
+3,Estructura Computacional,Core-3588J / RK3588 SOM,Firefly / Rockchip,System on Module RK3588 Octa-Core 6-TOPS NPU 4GB LPDDR4x 32GB eMMC,1,115.00,115.00,Firefly / WikiMall
+4,Display Ocular,ECX335BG / Micro-OLED,Sony / Olightek,Micro-Display OLED 0.39" Full HD (1920x1080) 1500 nits MIPI-DSI,1,125.00,125.00,Edmund Optics / Device Deal
+5,Optica Visible/NIR,1/1.8" 25mm F/1.0 Lens,Arducam / Thorlabs,Lente de alta apertura F/1.0 montura C/CS corregido para IR (400-1000nm),1,45.00,45.00,Arducam / Mouser
+6,Optica Térmica,Germanium 19mm F/1.0 Lens,Umicore / Custom,Lente de Germanio para infrarrojo lejano 8-14um con recubrimiento DLC,1,85.00,85.00,Ophir / Thorlabs
+7,Iluminador Infrarrojo,VCSEL-940-1W,Lumentum / Osram,Diodo VCSEL 940nm 1W Emision Estrecha Encapsulado 3535 SMD,1,8.50,8.50,Digi-Key
+8,Driver VCSEL & Mosfet,EPC2015C / TPS51200,EPC / Texas Instruments,GaN FET / Driver de conmutacion ultra-rapida para pulsos IR <10ns PWM,1,6.20,6.20,Mouser
+9,Coprocesador & Power Control,STM32G431K8T6,STMicroelectronics,MCU ARM Cortex-M4 170MHz 64KB Flash para gestion de bateria e IR adaptativo,1,3.80,3.80,Digi-Key
+10,PMIC & Reguladores DC-DC,TPS65987D + MP2651,Texas Instruments / MPS,PMIC multifase para NPU + Cargador de bateria Li-ion USB-C PD 18W,1,12.40,12.40,Mouser
+11,Modulo Inalambrico,LBEE5PK2BC (Type 2BC),Murata Electronics,Modulo Combo Wi-Fi 6 (802.11ax) + Bluetooth 5.2 PCIe/SDIO,1,14.50,14.50,Digi-Key
+12,Sensórica Auxiliar,ICM-42688-P,InvenSense / TDK,IMU de 6 ejes (Acelerometro + Giroscopio) Ultra-bajo ruido para Estabilizacion,1,4.10,4.10,Mouser
+13,Bateria & Gestion,Custom 2S Pack 3300mAh,Panasonic / LG,Pack de baterias Li-ion 7.4V 3300mAh con BMS de proteccion integrado,1,22.00,22.00,Proveedor Local / Custom
+14,PCB & Ensamble,Custom 8-Layer HDI PCB,JLCPCB / PCBWay,Fabricacion de PCB HDI de 8 capas Impedancia Controlada (Prototipo 5 uds),1,35.00,35.00,JLCPCB
+15,Chasis & Mecanica IP67,Chasis Magnesio/Aluminio,Custom CNC,Carcasa de aluminio anodizado duro con sellos O-ring e interfaz de casco,1,80.00,80.00,Taller Mecanizado CNC
+,COSTO_TOTAL_PROTOTIPO_BOM,,,,,,999.50,
