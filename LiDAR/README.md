@@ -143,6 +143,9 @@ A partir del marco de conceptos fundamentales del diseño electrónico (Fuentes,
    - **Software Host (PC):** Pipeline de procesamiento en C++/Python usando la librería **Open3D** o **PCL (Point Cloud Library)**. Recibe paquetes UDP, transforma coordenadas esféricas $(r, \theta, \phi) \rightarrow (x, y, z)$ aplicando la matriz de calibración óptica, y genera la malla de superficie 3D.
 8. **Diseño Mecánico e Industrial:** Chasis de aluminio anodizado maquinado en CNC para disipación térmica y alineación óptica rígida. Módulo con montaje en jaula estándar de $30\text{ mm}$ de laboratorio para fácil sustitución de espejos y lentes collimators.
 
+
+#### Lista de materiales
+https://docs.google.com/spreadsheets/d/1yTk8Aj1d5uGKZHHSC0oxuW3BlVYdvN3ysb8DY7g_0uE/edit?usp=sharing
 ---
 
 ## 6. Selección y Análisis Comparativo de Actuación Óptica: MEMS vs. Galvanómetros
