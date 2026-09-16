@@ -1,0 +1,15 @@
+Item,Categoria,Numero_de_Parte,Fabricante,Descripcion_Tecnica,Cantidad,Precio_Unitario_USD,Precio_Total_USD,Proveedor_Sugerido
+1,Escaneo Optico,Compact 506 (#16-036) / Galvo Set,ScannerMAX / Cambridge,Sistema de Galvanometros Dual (Ejes X/Y) con Espejos Protegidos Silver (Apertura 3mm a 5mm),1,480.00,480.00,Edmund Optics / Supplier
+2,Sensor ToF,TFmini Plus / VL53L8CX / dToF Mod,Benewake / STMicroelectronics,Modulo Sensor de Distancia Time-of-Flight de alta velocidad (>1kHz-5kHz) alcance 0.2m-12m,1,45.00,45.00,Mouser / SparkFun
+3,Estructura Computacional,STM32H743VIT6,STMicroelectronics,MCU ARM Cortex-M7 32-Bit 480MHz 2MB Flash 1MB RAM LQFP-100,1,14.50,14.50,Digi-Key
+4,Convertidor D/A,DAC8562SDGSR,Texas Instruments,DAC Dual 16-Bit SPI Ultra-bajo Drift Salida Buffereada para Control de Galvo,1,8.20,8.20,Mouser
+5,Interfaz de Red,KSZ9031RNXIA,Microchip Technology,Transceptor Ethernet Gigabit (10/100/1000 Mbps) RGMII 48-QFN,1,4.10,4.10,Digi-Key
+6,Fuentes de Alimentacion,LMR14030SQDDARQ1,Texas Instruments,Regulador Conmutado Buck 40V 3.5A Step-Down para Vin 12V a 5V/3.3V,2,2.80,5.60,Mouser
+7,Fuentes de Alimentacion,A12P-12 / Convertidor DC-DC HV,XP Power / Custom,Modulo Convertidor Aislado Bipolar DC-DC +/-15V para op-amps y drivers de Galvo,1,18.50,18.50,Digi-Key
+8,Acondicionamiento Analogo,OPA2192IDR,Texas Instruments,Amplificador Operacional Dual de Precision Rail-to-Rail e-Trim para Acondicionamiento DAC,2,3.15,6.30,Mouser
+9,Interfaz & Proteccion,TVS / Interlock Circuit,Littelfuse / ON Semi,Diodos de Proteccion ESD/TVS para lineas Ethernet y circuito Interlock de Seguridad Laser,1,5.50,5.50,Digi-Key
+10,Conectividad,2007626-1 / RJ45 MagJack,TE Connectivity,Conector RJ45 Apantallado con Magneticos Integrados GigE,1,3.25,3.25,Mouser
+11,Componentes Pasivos,Resistores/Capacitores SMD,Varios,Kit de Capacitores Ceramicos X7R Resistencias 1% e Inductores de Potencia,1,15.00,15.00,Mouser
+12,PCB & Ensamble,Custom 4-Layer PCB,JLCPCB / PCBWay,Fabricacion de PCB de 4 capas con FR4 Impedancia Controlada (Prototipo 5 uds),1,25.00,25.00,JLCPCB
+13,Optomecanica & Chasis,Chasis Mecanico Aluminio CNC,Custom / Thorlabs Cage,Estructura de montaje optico y disipador termico en aluminio anodizado,1,50.00,50.00,Taller Local / CNC
+,COSTO_TOTAL_PROTOTIPO_BOM,,,,,,680.95,
