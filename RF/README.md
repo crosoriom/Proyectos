@@ -1,4 +1,4 @@
-# RF-AGILE-02 | Especificación de Sistema y Arquitectura Técnica
+# RF-AGILE-01 | Especificación de Sistema y Arquitectura Técnica
 
 ## Transceptor RF Cognoscitivo Multibanda con Sintonización Automática por Varactor/MEMS, Síntesis Híbrida DDS + PLL Fraccional-N y Sensado Espectral por Entropía
 
